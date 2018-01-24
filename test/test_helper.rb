@@ -5,7 +5,7 @@ require "minitest/reporters"
 Minitest::Reporters.use!
 
 class ActiveSupport::TestCase
-
+  include ApplicationHelper
   fixtures :all
 
 end
