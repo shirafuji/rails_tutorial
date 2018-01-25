@@ -2,7 +2,7 @@
 
 これは、次の教材で作られたサンプルアプリケーションです。   
 [*Ruby on Rails チュートリアル*](https://railstutorial.jp/)
-[Michael Hartl](http://www.michaelhartl.com/) 著
+[Michael Hartl](http://www.michaelhartl.com/) 著  
 (ログイン機能はdevise言うgemを使うなどところどころ違っています。)
 
 ## ライセンス
